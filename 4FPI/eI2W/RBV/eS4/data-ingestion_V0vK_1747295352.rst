@@ -27,7 +27,6 @@ Features
 * Merge similar alerts and automatically promote new rules if they are not too noisy
 * Built-in support for dozens of log types and schemas
 * Built-in collection of broadly applicable community rules
-* Fully open source and customizable: add your own log schemas, rules, and alert outputs
 
 Ready? Let's `get started! <https://streamalert.readthedocs.io/>`_
 
